@@ -19,7 +19,7 @@ const home = () => {
   return (
     <Fragment>
       <div>
-        <h1>Students Module</h1>
+        <h1>Students Module1</h1>
       </div>
       <nav>
         <br></br>
